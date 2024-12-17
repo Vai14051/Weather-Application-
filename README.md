@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Vai14051/Weather-Application-.git
 cd weather-app
 Run the app:
 
